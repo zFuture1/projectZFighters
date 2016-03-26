@@ -5,13 +5,13 @@ UPGRADE
 
 if(!object.flag max) {
 
-upgradeRouter(object) {
++upgradeRouter(object) {
   i route the object to the specific upgrade modifier
-upgradeModifier(object) {
++upgradeModifier(object) {
   i prep the object with odds, etc.
-upgrade(int, int) {
++upgrade(int, int) {
   i perform the arithmetic and output a result
-upgradeSuccess(object) {
++upgradeSuccess(object) {
   i determine the new details
-upgradeSuccessDisplay(object) {
++upgradeSuccessDisplay(object) {
   i present the new details to the UI
