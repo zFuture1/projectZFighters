@@ -2,7 +2,9 @@
 Game Development
 
 -UPGRADE
-  +object.flag: max reached.
+
+if(!object.flag max) {
+
 -upgradeRouter(object) {
   + i route the object to the specific upgrade modifier
 -upgradeModifier(object) {
