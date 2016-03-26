@@ -1,8 +1,8 @@
 # projectZFighters
 Game Development
 
-UPGRADE
-+object.flag: max reached.
+-UPGRADE
+  +object.flag: max reached.
 -upgradeRouter(object) {
   + i route the object to the specific upgrade modifier
 -upgradeModifier(object) {
