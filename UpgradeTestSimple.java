@@ -1,5 +1,5 @@
 // Complete generic code: Not for production, O(1)
-
+// UpgradeTestSimple(int) pass in success rate 1 to 99 %.
 package Upgrader;
 
 public class UpgradeTestSimple {
