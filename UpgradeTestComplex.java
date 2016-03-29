@@ -1,3 +1,5 @@
+// Complete code: For production, O(1), for upgrade(int, int) > i perform the arithmetic and output a result
+// UpgradeTestComplex(int) pass in success rate 1 to 99%
 package Upgrader;
 
 public class UpgradeTestComplex {
